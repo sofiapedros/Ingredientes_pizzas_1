@@ -1,0 +1,124 @@
+Análisis de data_dictionary.csv
+Número de NaN totales:
+0
+Número de NaN por columnas: 
+Table          0
+Field          0
+Description    0
+dtype: int64
+
+Número de nulls totales: 
+0
+Número de nulls por columnas 
+Table          0
+Field          0
+Description    0
+dtype: int64 
+
+Los tipos de datos en las columnas son: 
+Table          object
+Field          object
+Description    object
+dtype: object
+____________________________________________________________________
+Análisis de order_details.csv
+Número de NaN totales:
+0
+Número de NaN por columnas: 
+order_details_id    0
+order_id            0
+pizza_id            0
+quantity            0
+dtype: int64
+
+Número de nulls totales: 
+0
+Número de nulls por columnas 
+order_details_id    0
+order_id            0
+pizza_id            0
+quantity            0
+dtype: int64 
+
+Los tipos de datos en las columnas son: 
+order_details_id     int64
+order_id             int64
+pizza_id            object
+quantity             int64
+dtype: object
+____________________________________________________________________
+Análisis de orders.csv
+Número de NaN totales:
+0
+Número de NaN por columnas: 
+order_id    0
+date        0
+time        0
+dtype: int64
+
+Número de nulls totales: 
+0
+Número de nulls por columnas 
+order_id    0
+date        0
+time        0
+dtype: int64 
+
+Los tipos de datos en las columnas son: 
+order_id     int64
+date        object
+time        object
+dtype: object
+____________________________________________________________________
+Análisis de pizza_types.csv
+Número de NaN totales:
+0
+Número de NaN por columnas: 
+pizza_type_id    0
+name             0
+category         0
+ingredients      0
+dtype: int64
+
+Número de nulls totales: 
+0
+Número de nulls por columnas 
+pizza_type_id    0
+name             0
+category         0
+ingredients      0
+dtype: int64 
+
+Los tipos de datos en las columnas son: 
+pizza_type_id    object
+name             object
+category         object
+ingredients      object
+dtype: object
+____________________________________________________________________
+Análisis de pizzas.csv
+Número de NaN totales:
+0
+Número de NaN por columnas: 
+pizza_id         0
+pizza_type_id    0
+size             0
+price            0
+dtype: int64
+
+Número de nulls totales: 
+0
+Número de nulls por columnas 
+pizza_id         0
+pizza_type_id    0
+size             0
+price            0
+dtype: int64 
+
+Los tipos de datos en las columnas son: 
+pizza_id          object
+pizza_type_id     object
+size              object
+price            float64
+dtype: object
+____________________________________________________________________
