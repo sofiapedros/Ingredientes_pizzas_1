@@ -1,7 +1,7 @@
 # Ingredientes_pizzas_1
 El repositorio contiene los siguientes ficheros:
-- etl.py
-- analisis_de_los_datos.py
+- etl.py (programa a ejecutar)
+- analisis_de_los_datos.py (programa a ejecutar)
 - analisis_de_los_datos_txt.py
 - Analisis_datos.txt
 - requirements.txt
