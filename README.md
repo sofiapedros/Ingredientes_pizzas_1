@@ -20,7 +20,7 @@ El repositorio contiene los siguientes ficheros:
 tipo de datos de cada columna.
 
 ### analisis_de_los_datos_txt.py
-"analisis_de_los_datos.py": programa que guarda en un fichero .txt (Analisis_datos.txt) un análisis de los datos proporcionados por la pizzería. Imprime número de NaN y nulls totales y por columna así como el
+"analisis_de_los_datos_txt.py": programa que guarda en un fichero .txt (Analisis_datos.txt) un análisis de los datos proporcionados por la pizzería. Imprime número de NaN y nulls totales y por columna así como el
 tipo de datos de cada columna.
 
 ### Analisis_datos.txt
